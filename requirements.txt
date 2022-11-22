@@ -2,5 +2,5 @@ black==18.6b4
 jikanpy==3.0.0
 matplotlib==2.2.2
 numpy==1.14.3
-Pillow==8.1.1
+Pillow==9.3.0
 rectangle-packer==1.1.0
